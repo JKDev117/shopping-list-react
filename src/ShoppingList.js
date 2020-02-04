@@ -1,5 +1,5 @@
 import React from 'react'
-import ShoppingItem from './ShoppingList'
+import ShoppingItem from './ShoppingItem'
 
 export default function ShoppingList(props) {
   return (

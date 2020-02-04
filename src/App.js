@@ -12,12 +12,12 @@ class App extends React.Component {
     ]
   };
 
-  handleDeleteItem(item){
-    console.log('handle delete item called', item)
+  handleDeleteItem(){
+    console.log('handle delete item called')
   }
 
-  handleCheckItem(item){
-    console.log('handle check item called', item)
+  handleCheckItem(){
+    console.log('handle check item called')
   }
 
   render() {
